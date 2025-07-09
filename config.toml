@@ -1,0 +1,5 @@
+[browser]
+serverAddress = "localhost"
+serverPort = 8501
+browserCommand = "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe --new-window %s"
+

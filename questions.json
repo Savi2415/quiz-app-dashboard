@@ -1,0 +1,19 @@
+[
+  {
+    "question": "What is the capital of Germany?",
+    "options": ["Berlin", "Paris", "Madrid", "Rome"],
+    "answer": "Berlin"
+  },
+  {
+    "question": "Which language is used for web apps?",
+    "options": ["Python", "Java", "HTML", "All of these"],
+    "answer": "All of these"
+  },
+  {
+    "question": "Who developed Python?",
+    "options": ["Guido van Rossum", "Elon Musk", "Dennis Ritchie", "Mark Zuckerberg"],
+    "answer": "Guido van Rossum"
+  }
+]
+
+

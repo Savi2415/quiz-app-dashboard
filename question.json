@@ -1,0 +1,153 @@
+[
+  
+  {
+    "topic": "Math",
+    "difficulty": "easy",
+    "question": "What is 7 + 6?",
+    "options": ["11", "12", "13", "14"],
+    "answer": "13"
+  },
+  {
+    "topic": "Math",
+    "difficulty": "easy",
+    "question": "What is the square of 5?",
+    "options": ["10", "15", "25", "30"],
+    "answer": "25"
+  },
+  {
+    "topic": "Math",
+    "difficulty": "medium",
+    "question": "What is the value of π (pi) approximately?",
+    "options": ["2.14", "3.14", "4.14", "5.14"],
+    "answer": "3.14"
+  },
+  {
+    "topic": "Math",
+    "difficulty": "medium",
+    "question": "Solve: 12 × 3 ÷ 4",
+    "options": ["9", "12", "6", "10"],
+    "answer": "9"
+  },
+  {
+    "topic": "Math",
+    "difficulty": "hard",
+    "question": "What is the derivative of x²?",
+    "options": ["2x", "x", "x²", "2"],
+    "answer": "2x"
+  },
+
+  
+  {
+    "topic": "Science",
+    "difficulty": "easy",
+    "question": "Which planet is closest to the sun?",
+    "options": ["Earth", "Mars", "Venus", "Mercury"],
+    "answer": "Mercury"
+  },
+  {
+    "topic": "Science",
+    "difficulty": "easy",
+    "question": "Water freezes at what temperature (°C)?",
+    "options": ["0", "10", "100", "32"],
+    "answer": "0"
+  },
+  {
+    "topic": "Science",
+    "difficulty": "medium",
+    "question": "Which part of the plant conducts photosynthesis?",
+    "options": ["Root", "Stem", "Leaf", "Flower"],
+    "answer": "Leaf"
+  },
+  {
+    "topic": "Science",
+    "difficulty": "medium",
+    "question": "What is the boiling point of water (in °C)?",
+    "options": ["0", "100", "212", "80"],
+    "answer": "100"
+  },
+  {
+    "topic": "Science",
+    "difficulty": "hard",
+    "question": "What is Newton's Third Law?",
+    "options": [
+      "F = ma",
+      "Every action has an equal and opposite reaction",
+      "Objects in motion stay in motion",
+      "Energy cannot be created or destroyed"
+    ],
+    "answer": "Every action has an equal and opposite reaction"
+  },
+  {
+    "topic": "Programming",
+    "difficulty": "easy",
+    "question": "Which of the following is a programming language?",
+    "options": ["Python", "HTML", "HTTP", "FTP"],
+    "answer": "Python"
+  },
+  {
+    "topic": "Programming",
+    "difficulty": "easy",
+    "question": "Which symbol is used for comments in Python?",
+    "options": ["//", "#", "/* */", "<!-- -->"],
+    "answer": "#"
+  },
+  {
+    "topic": "Programming",
+    "difficulty": "medium",
+    "question": "What data structure does FIFO represent?",
+    "options": ["Stack", "Queue", "List", "Tree"],
+    "answer": "Queue"
+  },
+  {
+    "topic": "Programming",
+    "difficulty": "medium",
+    "question": "Which of the following is immutable in Python?",
+    "options": ["List", "Set", "Tuple", "Dictionary"],
+    "answer": "Tuple"
+  },
+  {
+    "topic": "Programming",
+    "difficulty": "hard",
+    "question": "What is the output of len({1, 2, 2, 3})?",
+    "options": ["3", "4", "2", "1"],
+    "answer": "3"
+  },
+  {
+    "topic": "English",
+    "difficulty": "easy",
+    "question": "What is the plural of 'child'?",
+    "options": ["Childs", "Children", "Childes", "Chilren"],
+    "answer": "Children"
+  },
+  {
+    "topic": "English",
+    "difficulty": "easy",
+    "question": "Choose the synonym of 'happy'.",
+    "options": ["Sad", "Angry", "Joyful", "Tired"],
+    "answer": "Joyful"
+  },
+  {
+    "topic": "English",
+    "difficulty": "medium",
+    "question": "Identify the adjective in the sentence: 'The sky is blue.'",
+    "options": ["sky", "is", "blue", "the"],
+    "answer": "blue"
+  },
+  {
+    "topic": "English",
+    "difficulty": "medium",
+    "question": "What type of noun is 'love'?",
+    "options": ["Common noun", "Proper noun", "Abstract noun", "Collective noun"],
+    "answer": "Abstract noun"
+  },
+  {
+    "topic": "English",
+    "difficulty": "hard",
+    "question": "What is the figure of speech in: 'The wind whispered through the trees'?",
+    "options": ["Metaphor", "Simile", "Personification", "Alliteration"],
+    "answer": "Personification"
+  }
+]
+
+
+
